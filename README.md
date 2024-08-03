@@ -2,7 +2,7 @@
 A simple advice generator that fetches random quotes from an API on each click
 # Practice project
 ---
-<a href="https://AdviceGen-alpha-lovat.vercel.app">Live Site Link</a>
+<a href="https://advice-gen-ashy.vercel.app">Live Site Link</a>
 
       -- Made with 💌
          -- By KingShow
